@@ -30,7 +30,8 @@ Windows SmartScreen uyarısında "Daha fazla bilgi" → "Yine de çalıştır" s
 
 ## Kaynak Koddan Derleme (isteğe bağlı)
 ```
-g++ iymus_rpg_poker.cpp -o iymus_rpg_poker.exe -static```
+g++ iymus_rpg_poker.cpp -o iymus_rpg_poker.exe -static
+```
 
 ## Bilinen Sorunlar
 - İngilizce dil desteği yok.
